@@ -15,4 +15,5 @@ To run this app on your machine, ensure that you have Android Studio installed, 
 
 ### Demo
 
-![The app demo](https://media.giphy.com/media/nEVphSvDGVwx82dFgO/giphy.gif)
+![The app demo](https://media.giphy.com/media/UrndFFAj4buPECpk6O/giphy.gif)
+
