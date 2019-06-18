@@ -1,0 +1,12 @@
+
+Fsquid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8şâùˆ¶-
+Gsquid:S1659"$Declare "nameTv" on a separate line.(äÚüÿÿÿÿ8’¸‰†¶-
+bsquid:S2147A"DCombine this catch with the one at line 63, which has the same body.(ä ¹€8şâùˆ¶-
+ysquid:S3923E"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¸Ş¤³8Ç¾õ†¶-
+Fsquid:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8şâùˆ¶-
+dsquid:S2142A"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8şâùˆ¶-
+Lsquid:S1659")Declare "followingTV" on a separate line.(äÚüÿÿÿÿ8ù¼®şµ-
+Hsquid:S1659"%Declare "emailTV" on a separate line.(äÚüÿÿÿÿ8ù¼®şµ-
+Lsquid:S1659")Declare "followersTV" on a separate line.(äÚüÿÿÿÿ8ù¼®şµ-
+nsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(Ë´¶¯ÿÿÿÿÿ8à´Œ‰¶-
+dsquid:UselessImportCheck"9Remove this unused import 'com.squareup.picasso.Picasso'.(£œ¿×8öĞ÷ˆ¶-

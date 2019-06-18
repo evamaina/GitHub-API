@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".UserActivity">
+
+    <ImageView
+        android:id="@+id/avatar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        style="@style/TextAppearance"
+        android:layout_marginTop="15dp"
+        android:id="@+id/username" />
+    <TextView
+        style="@style/TextAppearance"
+        android:layout_marginTop="15dp"
+        android:id="@+id/followers" />
+    <TextView
+        style="@style/TextAppearance"
+        android:layout_marginTop="15dp"
+        android:id="@+id/following" />
+
+    <TextView
+        style="@style/TextAppearance"
+        android:layout_marginTop="15dp"
+        android:id="@+id/name_text_view" />
+    <TextView
+        style="@style/TextAppearance"
+        android:layout_marginTop="15dp"
+        android:id="@+id/email" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/own_repos"
+        android:text="Repositories"
+        android:onClick="LoadOwnRepos"
+        android:textSize="16sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:textAllCaps="false"/>
+</LinearLayout>
